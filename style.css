@@ -26,7 +26,7 @@ p{line-height:1.85;font-size:14px;color:#d8c8c4;max-width:590px;text-align:cente
 .rose{position:absolute;filter:drop-shadow(0 7px 12px #000);font-size:48px}
 .rose-one{left:calc(50% - 83px);top:23px;transform:rotate(-22deg)}
 .rose-two{right:calc(50% - 96px);top:54px;font-size:36px;transform:rotate(28deg)}
-.guitar{font-size:62px;position:absolute;right:calc(50% - 60px);top:22px;transform:rotate(18deg);filter:drop-shadow(0 7px 8px #000)}
+.guitar{font-size:62px;position:absolute;right:calc(50% - 5px);top:22px;transform:rotate(18deg);filter:drop-shadow(0 7px 8px #000)}
 .star{position:absolute;color:#e64b5b}.star-one{top:8px;left:25%}.star-two{right:23%;bottom:12px}
 .btn{border:1px solid transparent;border-radius:2px;padding:14px 19px;font-family:Montserrat,Arial,sans-serif;font-size:10px;letter-spacing:1.4px;font-weight:700;cursor:pointer;transition:transform .18s,background .18s,border-color .18s;color:var(--cream);min-height:46px}
 .btn:hover{transform:translateY(-2px)}.btn:focus-visible,a:focus-visible{outline:2px solid #ff8790;outline-offset:4px}
